@@ -1,0 +1,22 @@
+{
+    "best_model": "Random Forest",
+    "test_accuracy": 0.925,
+    "test_f1_score": 0.926829268292683,
+    "features": [
+        "profile pic",
+        "nums/length username",
+        "fullname words",
+        "nums/length fullname",
+        "name==username",
+        "description length",
+        "external URL",
+        "private",
+        "#posts",
+        "#followers",
+        "#follows",
+        "follower_following_ratio",
+        "post_per_follower",
+        "profile_completeness"
+    ],
+    "num_features": 14
+}
