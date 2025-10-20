@@ -1,15 +1,16 @@
 # Core Libraries
-pandas==2.0.3
-numpy==1.24.3
-scikit-learn==1.3.0
+pandas
+numpy
+scikit-learn
 
 # Web Framework
-streamlit==1.28.0
+streamlit
 
 # Visualization
-plotly==5.17.0
-matplotlib==3.7.2
-seaborn==0.12.2
+plotly
+matplotlib
+seaborn
 
-# Utilities
-pickle5==0.0.11
+# (Optional Utility)
+joblib
+tqdm
